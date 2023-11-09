@@ -12,3 +12,5 @@ brew "watch"
 brew "wget"
 
 cask "iTerm2"
+cask "1password"
+cask "1password-cli"
