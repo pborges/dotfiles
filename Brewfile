@@ -13,6 +13,7 @@ brew "powerlevel10k"
 brew "watch"
 brew "wget"
 brew "mas"
+brew "platformio"
 
 cask "obsidian"
 cask "iTerm2"
@@ -22,3 +23,5 @@ cask "jetbrains-toolbox"
 cask "dropbox"
 cask "sublime-text"
 cask "mullvadvpn"
+
+cask "visual-studio-code"
