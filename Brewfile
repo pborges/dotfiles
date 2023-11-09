@@ -1,6 +1,7 @@
 tap "homebrew/bundle"
 tap "homebrew/services"
 tap "romkatv/powerlevel10k"
+
 brew "cmake"
 brew "curl"
 brew "docker"
@@ -9,3 +10,5 @@ brew "jq"
 brew "powerlevel10k"
 brew "watch"
 brew "wget"
+
+cask "iTerm2"
