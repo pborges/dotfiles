@@ -1,7 +1,8 @@
-
+# Homebrew environment variables
 eval "$(/opt/homebrew/bin/brew shellenv)"
-
 
 # Added by Toolbox App
 export PATH="$PATH:/Users/pborges/Library/Application Support/JetBrains/Toolbox/scripts"
 
+# Use 1Password for SSH identities
+SSH_AUTH_SOCK=~/Library/Group\ Containers/2BUA8C4S2C.com.1password/t/agent.sock
