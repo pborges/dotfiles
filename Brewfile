@@ -23,5 +23,6 @@ cask "jetbrains-toolbox"
 cask "dropbox"
 cask "sublime-text"
 cask "mullvadvpn"
+cask "discord"
 
 cask "visual-studio-code"
