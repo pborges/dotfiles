@@ -24,5 +24,6 @@ cask "dropbox"
 cask "sublime-text"
 cask "mullvadvpn"
 cask "discord"
+cask "freecad"
 
 cask "visual-studio-code"
