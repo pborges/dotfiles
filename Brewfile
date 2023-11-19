@@ -25,5 +25,6 @@ cask "sublime-text"
 cask "mullvadvpn"
 cask "discord"
 cask "freecad"
+cask "microsoft-remote-desktop"
 
 cask "visual-studio-code"

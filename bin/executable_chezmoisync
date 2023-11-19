@@ -1,0 +1,7 @@
+#!/bin/zsh
+
+chezmoi re-add &&
+chezmoi git add . &&
+chezmoi git -- commit -m  "auto sync" &&
+chezmoi git push &&
+chezmoi apply
