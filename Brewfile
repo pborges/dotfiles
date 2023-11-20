@@ -26,5 +26,6 @@ cask "mullvadvpn"
 cask "discord"
 cask "freecad"
 cask "microsoft-remote-desktop"
+cask "superslicer"
 
 cask "visual-studio-code"
