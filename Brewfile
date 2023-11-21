@@ -27,5 +27,6 @@ cask "discord"
 cask "freecad"
 cask "microsoft-remote-desktop"
 cask "superslicer"
+cask "utm"
 
 cask "visual-studio-code"
