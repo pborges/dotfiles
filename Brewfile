@@ -28,5 +28,6 @@ cask "freecad"
 cask "microsoft-remote-desktop"
 cask "superslicer"
 cask "utm"
+cask "teamviewer"
 
 cask "visual-studio-code"
