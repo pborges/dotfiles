@@ -29,5 +29,6 @@ cask "microsoft-remote-desktop"
 cask "superslicer"
 cask "utm"
 cask "teamviewer"
+cask "vlc"
 
 cask "visual-studio-code"
