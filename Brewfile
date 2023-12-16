@@ -30,5 +30,6 @@ cask "superslicer"
 cask "utm"
 cask "teamviewer"
 cask "vlc"
+cask "google-chrome"
 
 cask "visual-studio-code"
