@@ -14,6 +14,7 @@ brew "watch"
 brew "wget"
 brew "mas"
 brew "platformio"
+brew "nvm"
 
 cask "obsidian"
 cask "iTerm2"
