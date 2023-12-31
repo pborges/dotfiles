@@ -8,6 +8,7 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
 fi
 
 
+export PATH="$PATH:$HOME/go/bin:$HOME/bin"
 export PATH="$PATH:/opt/homebrew/bin:$HOME/bin"
 source $(brew --prefix)/share/powerlevel10k/powerlevel10k.zsh-theme
 
