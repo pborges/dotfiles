@@ -17,6 +17,7 @@ brew "wget"
 brew "mas"
 brew "platformio"
 brew "nvm"
+brew "vite"
 
 cask "obsidian"
 cask "iTerm2"
