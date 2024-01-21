@@ -2,6 +2,7 @@ tap "homebrew/bundle"
 tap "homebrew/services"
 tap "romkatv/powerlevel10k"
 
+brew "picocom"
 brew "nmap"
 brew "cmake"
 brew "curl"
