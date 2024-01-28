@@ -22,4 +22,5 @@ export NVM_DIR="$HOME/.nvm"
 # END NVM
 
 source "$HOME/.cargo/env"
-source HOME/export-esp.sh
+source $HOME/export-esp.sh
+#source $HOME/Dropbox/esp-rs/esp-idf/export.sh
