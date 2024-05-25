@@ -24,3 +24,6 @@ export NVM_DIR="$HOME/.nvm"
 source "$HOME/.cargo/env"
 source $HOME/export-esp.sh
 # source $HOME/Dropbox/src/esp-idf/export.sh
+
+alias vim='nvim'
+export EDITOR='nvim'
