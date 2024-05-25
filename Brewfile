@@ -24,6 +24,7 @@ brew "vite"
 brew "cmake"
 brew "ninja"
 brew "dfu-util"
+brew "nvim"
 
 cask "obsidian"
 cask "iTerm2"
